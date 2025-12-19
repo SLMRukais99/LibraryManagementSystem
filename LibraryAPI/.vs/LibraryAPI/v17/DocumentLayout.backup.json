@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project a\\LibraryAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|e:\\project a\\libraryapi\\libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|e:\\project a\\libraryapi\\libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|e:\\project a\\libraryapi\\libraryapi\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|e:\\project a\\libraryapi\\libraryapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|e:\\project a\\libraryapi\\libraryapi\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|e:\\project a\\libraryapi\\libraryapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|e:\\project a\\libraryapi\\libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DBFB9C1-A737-4CC1-BC7E-2E4DCB8ABEF2}|LibraryAPI\\LibraryAPI.csproj|solutionrelative:libraryapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Data\\LibraryDbContext.cs",
+              "ToolTip": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryAPI\\Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:05:28.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Models\\Book.cs",
+              "ToolTip": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:03:11.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Services\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\IBookService.cs",
+              "ToolTip": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Services\\IBookService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:05:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Services\\BookService.cs",
+              "ToolTip": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryAPI\\Services\\BookService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:04:56.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:04:03.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryAPI\\Program.cs",
+              "ToolTip": "E:\\Project a\\LibraryAPI\\LibraryAPI\\Program.cs",
+              "RelativeToolTip": "LibraryAPI\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T15:08:33.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Project a\\LibraryAPI\\LibraryAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryAPI\\appsettings.json",
+              "ToolTip": "E:\\Project a\\LibraryAPI\\LibraryAPI\\appsettings.json",
+              "RelativeToolTip": "LibraryAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T14:06:01.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
